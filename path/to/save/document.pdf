@@ -1,0 +1,155 @@
+{
+  "featured": {
+    "id": "642729d9b45933733240b478",
+    "title": "The CFTC Comes For CZ",
+    "image": "https://specials-images.forbesimg.com/imageserve/64272b43d98fdfb87d217d9f/960x0.jpg",
+    "articleURL": "https://www.forbes.com/newsletters/forbescryptoassetadvisor/2023/03/31/the-cftc-comes-for-cz/",
+    "author": "Steven Ehrlich",
+    "type": "Forbes Staff",
+    "authorType": "newsletter",
+    "authorLink": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+    "description": "The news cycle this week was dominated by the CFTC’s complaint against Binance. But that's not all that you need to know.",
+    "publishDate": "2023-03-31T18:55:22Z",
+    "disabled": false,
+    "seniorContributor": false,
+    "bylineFormat": 0
+  },
+  "dataFeed": [
+    {
+      "id": "6522bc995c62462a5310fc95",
+      "title": "Subscribers Only: Interview With ‘Going Infinite’ Author Michael Lewis",
+      "image": "https://specials-images.forbesimg.com/imageserve/6522bcf9180b3e60ae9e09f9/960x0.jpg",
+      "articleURL": "https://www.forbes.com/newsletters/forbescryptoassetadvisor/2023/10/08/exclusive-interview-with-going-infinite-author-michael-lewis/",
+      "author": "Steven Ehrlich",
+      "type": "Forbes Staff",
+      "authorType": "newsletter",
+      "authorLink": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+      "description": "Michael Lewis's new book on the collapse of Sam Bankman-Fried's FTX explores what the former mogul was trying to accomplish and whether or not his fate was inevitable.",
+      "publishDate": "2023-10-08T14:33:55Z",
+      "disabled": false,
+      "seniorContributor": false,
+      "bylineFormat": 0
+    },
+    {
+      "id": "64f207fec8d7c8599d83ec65",
+      "title": "Are FTX’s Bankruptcy Claims A Screaming Bargain?",
+      "image": "https://specials-images.forbesimg.com/imageserve/651eb72f2249784e79423970/960x0.jpg",
+      "articleURL": "https://www.forbes.com/sites/digital-assets/2023/10/05/are-ftxs-bankruptcy-claims-a-screaming-bargain/",
+      "author": "Javier Bastardo",
+      "type": "Contributor",
+      "authorType": "individual",
+      "authorLink": "https://www.forbes.com/sites/javierbastardo",
+      "description": "FTX’s debt has soared in the last few months but still sells at less than 50% of par value.  Look carefully before you leap. ",
+      "publishDate": "2023-10-05T13:27:54Z",
+      "disabled": false,
+      "seniorContributor": false,
+      "bylineFormat": 0
+    },
+    {
+      "id": "650dd4e4edaee62825ac0cf9",
+      "title": "Bitcoin Falls On Fed News",
+      "image": "https://specials-images.forbesimg.com/imageserve/650dd79abbfcf09a8655c984/960x0.jpg?cropX1=0&cropX2=1517&cropY1=78&cropY2=932",
+      "articleURL": "https://www.forbes.com/newsletters/forbescryptoassetadvisor/2023/09/22/bitcoin-falls-on-fed-news/",
+      "author": "Steven Ehrlich",
+      "type": "Forbes Staff",
+      "authorType": "newsletter",
+      "authorLink": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+      "description": "Bitcoin dropped after the Fed held rates steady. Get ready for a wild race to 2024.",
+      "publishDate": "2023-09-22T18:06:47Z",
+      "disabled": false,
+      "seniorContributor": false,
+      "bylineFormat": 0
+    }
+  ],
+  "analysts": [
+    {
+      "rank": 1,
+      "name": "Steven Ehrlich",
+      "image": "https://thumbor.forbes.com/thumbor/fit-in/300x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescryptoassetadvisor%2Ffiles%2F2020%2F09%2FSteven-Ehrlich_avatar_1600885578-400x400.jpg",
+      "title": "Forbes Director of Research",
+      "expertise": "Digital Assets",
+      "bioLink": "https://www.forbes.com/sites/stevenehrlich/",
+      "followLink": "https://www.forbes.com/sites/stevenehrlich/",
+      "slug": "stevenehrlich",
+      "naturalId": "blogAuthorId/blog/author/1311599"
+    },
+    {
+      "rank": 2,
+      "name": "Javier Paz",
+      "image": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a6bf8c8287e9604d987aae%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1120%26cropY1%3D351%26cropY2%3D1471",
+      "title": "Forbes Director of Data and Analytics",
+      "expertise": "Data and Analytics",
+      "bioLink": "https://www.forbes.com/sites/javierpaz/",
+      "followLink": "https://www.forbes.com/sites/javierpaz/",
+      "slug": "javierpaz",
+      "naturalId": "blogAuthorId/blog/author/5003987"
+    },
+    {
+      "rank": 3,
+      "name": "Hailey Lennon",
+      "image": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f10889716779500064dd72f%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D360%26cropY1%3D0%26cropY2%3D360)",
+      "title": "Partner at Brown Rudnick",
+      "expertise": "Crypto Regulation",
+      "bioLink": "https://www.forbes.com/sites/haileylennon/",
+      "followLink": "https://www.forbes.com/sites/haileylennon/",
+      "slug": "haileylennon",
+      "naturalId": "blogAuthorId/blog/author/5001644"
+    },
+    {
+      "rank": 4,
+      "name": "Shehan Chandrasekera",
+      "image": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60402bc7c23f4a9a89413b67%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+      "title": "Head of Strategy CoinTracker",
+      "expertise": "Taxation and Accounting",
+      "bioLink": "https://www.forbes.com/sites/shehanchandrasekera/",
+      "followLink": "https://www.forbes.com/sites/shehanchandrasekera/",
+      "slug": "shehanchandrasekera",
+      "naturalId": "blogAuthorId/blog/author/5000350"
+    },
+    {
+      "rank": 5,
+      "name": "Colin Harper",
+      "image": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb18b7235df120006a3f89c%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D275%26cropY1%3D0%26cropY2%3D275",
+      "title": "Head of Content Luxor Technologies ",
+      "expertise": "Crypto Mining and Staking",
+      "bioLink": "https://www.forbes.com/sites/colinharper/",
+      "followLink": "https://www.forbes.com/sites/colinharper/",
+      "slug": "colinharper",
+      "naturalId": "blogAuthorId/blog/author/5000823"
+    },
+    {
+      "rank": 6,
+      "name": "Leeor Shimron",
+      "image": "https://www.forbes.com/dam/imageserve/638f7646e46b367a410d997c/x.jpg",
+      "title": "Founder and CEO of NovaBlock Capital",
+      "expertise": "NFTs",
+      "bioLink": "https://www.forbes.com/sites/leeorshimron",
+      "followLink": "https://www.forbes.com/sites/leeorshimron/",
+      "slug": "leeorshimron",
+      "naturalId": "blogAuthorId/blog/author/5000804"
+    },
+    {
+      "rank": 7,
+      "name": "Jason Brett",
+      "image": "https://media.licdn.com/dms/image/C4D03AQHbd4ywKpwguQ/profile-displayphoto-shrink_800_800/0/1634693573330?e=1689206400&v=beta&t=ubfmbMEcNyP1lDkjebHLXb1qT3XVaWyNdPHcNx6QA8s",
+      "title": "Former U.S. Regulator",
+      "expertise": "Crypto Policy",
+      "bioLink": "https://www.forbes.com/sites/jasonbrett/",
+      "followLink": "https://www.forbes.com/sites/jasonbrett/",
+      "slug": "jasonbrett",
+      "naturalId": "blogAuthorId/blog/author/2900832"
+    },
+    {
+      "rank": 8,
+      "name": "Diana Barrero Zalles",
+      "image": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b7b79dd3ed73481eff75e6%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D428%26cropY1%3D9%26cropY2%3D437",
+      "title": "Director of ESG and Impact Emergents at Weild & Co",
+      "expertise": "Stablecoins, Payments, and CBDCs",
+      "bioLink": "https://www.forbes.com/sites/dianabarrerozalles/",
+      "followLink": "https://www.forbes.com/sites/dianabarrerozalles/",
+      "slug": "dianabarrerozalles",
+      "naturalId": "blogAuthorId/blog/author/5004585"
+    }
+  ],
+  "dataFeedPaginated": true
+}
